@@ -216,39 +216,6 @@ Modern analytical platform based on production data architecture patterns.
 | Analytics Engineering | dbt Semantic Layer · Data Contracts |
 | AI Engineering | RAG · LLM Applications · MLOps |
 
-
----
-
-# GitHub Analytics
-
-
-<div align="center">
-
-
-<img 
-height="160"
-src="https://github-readme-stats.vercel.app/api?username=marcellin-de&show_icons=true&hide_border=true&theme=github_dark"
-/>
-
-
-<img 
-height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellin-de&layout=compact&hide_border=true&theme=github_dark"
-/>
-
-
-<br><br>
-
-
-<img
-width="70%"
-src="https://streak-stats.demolab.com?user=marcellin-de&hide_border=true&theme=github-dark"
-/>
-
-
-</div>
-
-
 ---
 
 <div align="center">
