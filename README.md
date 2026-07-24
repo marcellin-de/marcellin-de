@@ -1,10 +1,6 @@
 <div align="center">
 
 <!-- Pipeline banner -->
-```
-[ raw ] ──▶ [ ingest ] ──▶ [ transform ] ──▶ [ model ] ──▶ [ serve ] ──▶ [ insight ]
-```
-
 # Marcellin DJAMBO
 
 **`Data & Analytics Engineer`**
