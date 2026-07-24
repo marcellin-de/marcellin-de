@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0F172A&fontColor=FFFFFF&text=Marcellin%20DJAMBO&fontSize=42&fontAlignY=40&desc=Data%20%26%20Analytics%20Engineer&descAlignY=62&descSize=20"/>
+<img src="https://avatars.githubusercontent.com/u/259388311?v=4"/>
 
 <br>
 
