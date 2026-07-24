@@ -65,7 +65,7 @@ Stacks data modernes de bout en bout — ingestion, transformation, modélisatio
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Projets
 
 <table>
   <tr>
