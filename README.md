@@ -1,137 +1,167 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/259388311?v=4" width="140" height="140" style="border-radius: 50%;" alt="Marcellin DJAMBO" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Marcellin DJAMBO 👋</h1>
+<!-- Pipeline banner -->
+```
+[ raw ] ──▶ [ ingest ] ──▶ [ transform ] ──▶ [ model ] ──▶ [ serve ] ──▶ [ insight ]
+```
 
-<p align="center">
-  <strong>Data &amp; Analytics Engineer</strong><br/>
-  Building end-to-end modern data stacks — from ingestion and transformation to testing, orchestration, BI, and ML.
-</p>
+# Marcellin DJAMBO
 
-<p align="center">
-  <a href="https://marcellin.tech">🌐 Website</a> ·
-  <a href="mailto:marceladjambo@gmail.com">✉️ Email</a> ·
-  🌍 Based in France · 🟢 Open to opportunities
-</p>
+**`Data & Analytics Engineer`**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Analytics%20Engineering-2D2C2A?style=for-the-badge" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Open%20to%20work-Yes-brightgreen?style=for-the-badge" alt="Hireable badge" />
-</p>
+Stacks data modernes de bout en bout — ingestion, transformation, modélisation, BI et ML.  
+Mastère Ingénierie IA · Université Centrale de Tunis · 🌍 Ouvert aux opportunités
 
----
+[![Website](https://img.shields.io/badge/marcellin.tech-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://marcellin.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellindjambo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marcellin-de)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:djambomarcellin@gmail.com)
 
-## 🧑‍💻 About Me
-
-I design **scalable, testable, and observable** analytics platforms using industry-standard tools and architectural patterns — **medallion architecture**, **star schema**, **data contracts**, and **event-driven orchestration**. My work spans the full modern data stack: from raw ingestion (DLT, Airbyte) through transformation (dbt) and orchestration (Dagster) to BI (Power BI, Metabase) and ML (MLflow).
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Stack technique
 
 <table>
   <tr>
     <td valign="top" width="33%">
 
-### Data Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Dagster](https://img.shields.io/badge/Dagster-2E254D?logo=dagster&logoColor=white)
-![DLT](https://img.shields.io/badge/dlt-2A2A2A?logo=dlt&logoColor=white)
-![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?logo=airbyte&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+**Data Engineering**
 
-    </td>
-    <td valign="top" width="33%">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![dlt](https://img.shields.io/badge/dlt-111111?style=flat-square)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-2E254D?style=flat-square)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Analytics Engineering
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?logo=clickhouse&logoColor=black)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
+  </td>
+  <td valign="top" width="33%">
 
-### Data Quality
-![Great Expectations](https://img.shields.io/badge/Great_Expectations-2D2C2A?logo=greatexpectations&logoColor=white)
-![Elementary](https://img.shields.io/badge/Elementary-FF6B6B?logoColor=white)
+**Analytics Engineering**
 
-    </td>
-    <td valign="top" width="33%">
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Elementary](https://img.shields.io/badge/Elementary-FF6B6B?style=flat-square)
 
-### BI & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Metabase](https://img.shields.io/badge/Metabase-509FEE?logo=metabase&logoColor=white)
-![Evidence](https://img.shields.io/badge/Evidence-7B3FEB?logoColor=white)
+  </td>
+  <td valign="top" width="33%">
 
-### AI / ML
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+**BI & AI / ML**
 
-    </td>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-509FEE?style=flat-square&logo=metabase&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square)
+
+  </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projets phares
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/marcellin-de/crm-sales-analytics-platform">📊 CRM Sales Analytics Platform</a></h3>
-      <p><em>Analytics Engineering</em> · Snowflake · dbt · Power BI</p>
-      <p>Raw CRM data → tested star-schema marts → 4-page Power BI dashboard. Custom generic tests, incremental models, snapshots, metric validation.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/marcellin-de/dagster-weather-platform">🌤️ Dagster Weather Intelligence Platform</a></h3>
-      <p><em>Data Engineering + MLOps</em> · Dagster · dbt · DuckDB · MLflow</p>
-      <p>Hourly weather ingestion → data contracts → ML training with MAE gates → 7-day forecasts. The only project showcasing end-to-end ML in the asset graph.</p>
-    </td>
+
+### 📊 [CRM Sales Analytics Platform](https://github.com/marcellin-de/crm-sales-analytics-platform)
+`Snowflake` · `dbt` · `Power BI`
+
+Raw CRM → marts en étoile testés → dashboard Power BI 4 pages.  
+Modèles incrémentiels, snapshots, tests génériques, validation des métriques.
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🌤 [Dagster Weather Intelligence Platform](https://github.com/marcellin-de/dagster-weather-platform)
+`Dagster` · `dbt` · `DuckDB` · `MLflow`
+
+Ingestion horaire → contrats de données → entraînement ML avec MAE gates → prévisions 7 jours en asset graph.
+
+  </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/marcellin-de/marketing-performance-analysis">📈 Marketing Performance Analysis</a></h3>
-      <p><em>Modern Data Stack</em> · DLT · dbt · Dagster · Snowflake · Metabase</p>
-      <p>CSV → DLT ingestion → dbt (staging → marts) → Elementary data quality → Metabase KPI dashboard. Event-driven daily orchestration.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/marcellin-de/vehicle-ecommerce-analytics">🚗 Vehicle E-Commerce Analytics</a></h3>
-      <p><em>Data Platform Architecture</em> · Airbyte · Snowflake · dbt · Dagster · Elementary · Great Expectations</p>
-      <p>Production-grade medallion architecture with CLV, cohort retention, RFM segmentation, and CI/CD-ready analytics workflows.</p>
-    </td>
+
+### 📈 [Marketing Performance Analysis](https://github.com/marcellin-de/marketing-performance-analysis)
+`dlt` · `dbt` · `Dagster` · `Snowflake` · `Metabase`
+
+CSV → ingestion DLT → dbt staging/marts → qualité Elementary → dashboard KPI Metabase. Orchestration event-driven quotidienne.
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🚗 [Vehicle E-Commerce Analytics](https://github.com/marcellin-de/vehicle-ecommerce-analytics)
+`Airbyte` · `Snowflake` · `dbt` · `Dagster` · `Great Expectations`
+
+Architecture medallion production-grade. CLV, cohortes, segmentation RFM, workflows CI/CD-ready.
+
+  </td>
   </tr>
 </table>
+
+---
+
+## 💼 Expérience
+
+**Stagiaire Data Analyst — SETRAG (Groupe Eramet)** · Owendo, Gabon · `fév. – mai 2025`
+
+- Automatisation d'un reporting métier via **Power BI + SQL Server**, réduction du temps de production et des erreurs
+- Conception d'un **schéma en constellation** pour l'analyse multiaxes des KPIs commerciaux
+- Développement de **mesures DAX** pour le suivi du tonnage, du budget et du chiffre d'affaires
+- Déploiement sur **Power BI Service** avec gestion des accès utilisateurs
+
+---
+
+## 🎓 Formation & Certifications
+
+| Diplôme | Établissement | Période |
+|---|---|---|
+| Mastère Professionnel — Ingénierie IA | Université Centrale, Tunis | 2025 – en cours |
+| Licence Professionnelle — Big Data & Analyse de Données | Université Centrale, Tunis | 2022 – 2025 |
+
+| Certification | Organisme | Date |
+|---|---|---|
+| Analytics Engineering with dbt | Edureka | Mai 2026 |
+| Data Engineer | DataCamp | Fév. 2026 |
+| Associate Data Engineer in SQL | DataCamp | Fév. 2026 |
+
+---
+
+## 🗺 Roadmap
+
+```
+🔌 Data Engineering      │  🧮 Analytics Engineering   │  🤖 AI Engineering
+─────────────────────────┼──────────────────────────────┼────────────────────────
+▶ Kafka + Flink          │  ▶ dbt Semantic Layer        │  ▶ RAG pipelines
+▶ Terraform (IaC)        │  ▶ Reverse ETL               │  ▶ Feature stores
+▶ Iceberg / Delta Lake   │  ▶ Data contracts at scale   │  ▶ End-to-end MLOps
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcellin-de&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Marcellin's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellin-de&layout=compact&theme=default&hide_border=true" alt="Top languages" height="170" />
-</p>
+<div align="center">
+
+![Marcellin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellin-de&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellin-de&layout=compact&theme=default&hide_border=true)
+
+</div>
 
 ---
 
-## 🗺️ What I'm Building Next
-
-I'm growing across three tracks. See the full plan in [`ROADMAP.md`](./ROADMAP.md).
-
-- 🔌 **Data Engineering** — streaming (Kafka + Flink), infra-as-code (Terraform), Lakehouse (Iceberg/Delta)
-- 🧮 **Analytics Engineering** — dbt Semantic Layer, Reverse ETL, contracts at scale
-- 🤖 **AI Engineering** — RAG pipelines, feature stores, end-to-end MLOps
-
----
-
-## 📫 Let's Connect
-
-[![Website](https://img.shields.io/badge/Website-marcellin.tech-2D2C2A?logo=googlechrome&logoColor=white)](https://marcellin.tech)
-[![Email](https://img.shields.io/badge/Email-marceladjambo@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:marceladjambo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-marcellin--de-181717?logo=github&logoColor=white)](https://github.com/marcellin-de)
-
----
-
-<sub><i>“Data is the new oil — I build the refinery.”</i></sub>
+<div align="center">
+  <sub><i>"Data is the new oil — I build the refinery."</i></sub>
+</div>
