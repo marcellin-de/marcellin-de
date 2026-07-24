@@ -71,7 +71,7 @@ Mastère Ingénierie IA · Université Centrale de Tunis · 🌍 Ouvert aux oppo
   <tr>
     <td width="50%" valign="top">
 
-### 📊 [CRM Sales Analytics Platform](https://github.com/marcellin-de/crm-sales-analytics-platform)
+### [CRM Sales Analytics Platform](https://github.com/marcellin-de/crm-sales-analytics-platform)
 `Snowflake` · `dbt` · `Power BI`
 
 Raw CRM → marts en étoile testés → dashboard Power BI 4 pages.  
@@ -80,7 +80,7 @@ Modèles incrémentiels, snapshots, tests génériques, validation des métrique
   </td>
   <td width="50%" valign="top">
 
-### 🌤 [Dagster Weather Intelligence Platform](https://github.com/marcellin-de/dagster-weather-platform)
+### [Dagster Weather Intelligence Platform](https://github.com/marcellin-de/dagster-weather-platform)
 `Dagster` · `dbt` · `DuckDB` · `MLflow`
 
 Ingestion horaire → contrats de données → entraînement ML avec MAE gates → prévisions 7 jours en asset graph.
@@ -90,7 +90,7 @@ Ingestion horaire → contrats de données → entraînement ML avec MAE gates �
   <tr>
     <td width="50%" valign="top">
 
-### 📈 [Marketing Performance Analysis](https://github.com/marcellin-de/marketing-performance-analysis)
+### [Marketing Performance Analysis](https://github.com/marcellin-de/marketing-performance-analysis)
 `dlt` · `dbt` · `Dagster` · `Snowflake` · `Metabase`
 
 CSV → ingestion DLT → dbt staging/marts → qualité Elementary → dashboard KPI Metabase. Orchestration event-driven quotidienne.
@@ -98,7 +98,7 @@ CSV → ingestion DLT → dbt staging/marts → qualité Elementary → dashboar
   </td>
   <td width="50%" valign="top">
 
-### 🚗 [Vehicle E-Commerce Analytics](https://github.com/marcellin-de/vehicle-ecommerce-analytics)
+### [Vehicle E-Commerce Analytics](https://github.com/marcellin-de/vehicle-ecommerce-analytics)
 `Airbyte` · `Snowflake` · `dbt` · `Dagster` · `Great Expectations`
 
 Architecture medallion production-grade. CLV, cohortes, segmentation RFM, workflows CI/CD-ready.
@@ -109,7 +109,7 @@ Architecture medallion production-grade. CLV, cohortes, segmentation RFM, workfl
 
 ---
 
-## 💼 Expérience
+## Expérience
 
 **Stagiaire Data Analyst — SETRAG (Groupe Eramet)** · Owendo, Gabon · `fév. – mai 2025`
 
@@ -120,7 +120,7 @@ Architecture medallion production-grade. CLV, cohortes, segmentation RFM, workfl
 
 ---
 
-## 🎓 Formation & Certifications
+## Formation & Certifications
 
 | Diplôme | Établissement | Période |
 |---|---|---|
@@ -147,7 +147,7 @@ Architecture medallion production-grade. CLV, cohortes, segmentation RFM, workfl
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
