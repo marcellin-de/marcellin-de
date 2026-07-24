@@ -135,7 +135,7 @@ Architecture medallion production-grade. CLV, cohortes, segmentation RFM, workfl
 
 ---
 
-## 🗺 Roadmap
+## Roadmap
 
 ```
 Data Engineering      │  Analytics Engineering   │  AI Engineering
