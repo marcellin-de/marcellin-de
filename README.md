@@ -1,10 +1,30 @@
-# Hi, I'm Marcellin DJAMBO 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/259388311?v=4" width="140" height="140" style="border-radius: 50%;" alt="Marcellin DJAMBO" />
+</p>
 
-**Data & Analytics Engineer** building end-to-end modern data stacks — from ingestion and transformation to testing, orchestration, BI, and ML.
+<h1 align="center">Hi, I'm Marcellin DJAMBO 👋</h1>
 
-I design **scalable, testable, and observable** analytics platforms using industry-standard tools and architectural patterns (medallion architecture, star schema, data contracts, event-driven orchestration).
+<p align="center">
+  <strong>Data &amp; Analytics Engineer</strong><br/>
+  Building end-to-end modern data stacks — from ingestion and transformation to testing, orchestration, BI, and ML.
+</p>
 
-🌍 Based in France · 🟢 Open to opportunities · 📫 [marceladjambo@gmail.com](mailto:marceladjambo@gmail.com)
+<p align="center">
+  <a href="https://marcellin.tech">🌐 Website</a> ·
+  <a href="mailto:marceladjambo@gmail.com">✉️ Email</a> ·
+  🌍 Based in France · 🟢 Open to opportunities
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Analytics%20Engineering-2D2C2A?style=for-the-badge" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-Yes-brightgreen?style=for-the-badge" alt="Hireable badge" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I design **scalable, testable, and observable** analytics platforms using industry-standard tools and architectural patterns — **medallion architecture**, **star schema**, **data contracts**, and **event-driven orchestration**. My work spans the full modern data stack: from raw ingestion (DLT, Airbyte) through transformation (dbt) and orchestration (Dagster) to BI (Power BI, Metabase) and ML (MLflow).
 
 ---
 
