@@ -1,15 +1,27 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/259388311?v=4"/>
+<img 
+src="https://avatars.githubusercontent.com/u/259388311?v=4" 
+width="120"
+style="border-radius:50%;"
+/>
+
+<h1>
+Marcellin DJAMBO
+</h1>
+
+<h3>
+Data & Analytics Engineer
+</h3>
+
+<p>
+Building modern data platforms from ingestion to analytics and machine learning.
+</p>
 
 <br>
 
-Building modern data platforms from ingestion to analytics.
-
-<br><br>
-
 <a href="https://marcellin.tech">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/marcellindjambo">
@@ -25,19 +37,18 @@ Building modern data platforms from ingestion to analytics.
 
 <br>
 
----
 
-# Profile
+## About
 
-Data & Analytics Engineer focused on building reliable and scalable data systems.
+Data & Analytics Engineer focused on designing reliable data systems.
 
-I work across the modern data stack:
+Building solutions around:
 
-- Data ingestion
-- Data transformation
-- Analytics engineering
-- Business intelligence
-- Machine learning workflows
+- Modern Data Stack
+- Data Engineering
+- Analytics Engineering
+- Business Intelligence
+- Machine Learning
 
 
 ---
@@ -47,41 +58,40 @@ I work across the modern data stack:
 
 <div align="center">
 
-## Languages & Core Tools
+
+### Languages & Foundations
+
 
 <img src="https://skillicons.dev/icons?i=python,postgres,linux,docker,git,github" />
 
+
 <br><br>
+
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=microsoft&logoColor=black"/>
 
-</div>
+
+<br><br>
 
 
-<br>
+### Data Engineering
 
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=airflow" />
 
-## Data Engineering
-
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dagster-2E254D?style=flat-square&logo=dagster&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dagster-2E254D?style=flat-square"/>
 <img src="https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white"/>
 <img src="https://img.shields.io/badge/dlt-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-
-</div>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
 
-<br>
+<br><br>
 
 
-<div align="center">
+### Analytics Engineering
 
-## Analytics Engineering
 
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
@@ -89,21 +99,19 @@ I work across the modern data stack:
 <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black"/>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
 
-</div>
+
+<br><br>
 
 
-<br>
+### BI & AI
 
 
-<div align="center">
-
-## BI & Machine Learning
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Metabase-509FEE?style=flat-square&logo=metabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
 
 </div>
 
@@ -117,46 +125,38 @@ I work across the modern data stack:
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 
 ## CRM Sales Analytics Platform
 
-**Analytics Engineering**
+`dbt` `Snowflake` `Power BI`
 
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+Analytics engineering platform transforming CRM data into trusted business models.
 
+**Highlights**
 
-CRM analytics platform transforming raw business data into trusted analytical models.
-
-Includes:
-
-- Dimensional modeling
-- Incremental transformations
-- Data quality tests
-- Power BI reporting
+- Star schema modeling
+- Incremental pipelines
+- Data quality testing
+- Executive dashboards
 
 
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%">
 
 
 ## Weather Intelligence Platform
 
-**Data Engineering + ML**
+`Dagster` `dbt` `DuckDB` `MLflow`
 
-<img src="https://img.shields.io/badge/Dagster-2E254D?style=flat-square"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+End-to-end data platform combining orchestration and machine learning.
 
+**Highlights**
 
-End-to-end platform combining orchestration, analytics and machine learning.
-
-Includes:
-
-- Automated pipelines
+- Automated ingestion
 - Data validation
 - ML workflows
 - Forecasting
@@ -169,44 +169,37 @@ Includes:
 
 <tr>
 
-<td width="50%" valign="top">
+
+<td width="50%">
 
 
 ## Marketing Data Platform
 
-**Modern Data Stack**
+`dlt` `dbt` `Dagster`
 
-<img src="https://img.shields.io/badge/dlt-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square"/>
+Modern ELT architecture for automated marketing analytics.
 
-
-ELT platform designed for automated marketing analytics.
-
-Includes:
+**Highlights**
 
 - Data ingestion
 - Transformation layers
-- KPI models
+- KPI modeling
 - Quality monitoring
 
 
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%">
 
 
 ## Vehicle Analytics Platform
 
-**Data Platform Architecture**
+`Airbyte` `Snowflake` `dbt`
 
-<img src="https://img.shields.io/badge/Airbyte-615EFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square"/>
+Modern analytical platform based on production data architecture patterns.
 
-
-Analytics platform based on modern data architecture patterns.
-
-Includes:
+**Highlights**
 
 - Medallion architecture
 - Customer analytics
@@ -216,21 +209,23 @@ Includes:
 
 </td>
 
+
 </tr>
+
 
 </table>
 
 
 ---
 
-# Engineering Focus
+# Current Focus
 
-| Area | Current Focus |
-|---|---|
-| Data Engineering | Kafka · Flink · Lakehouse Architecture |
+
+| Area | Technologies |
+|-|-|
+| Data Engineering | Kafka · Flink · Iceberg · Terraform |
 | Analytics Engineering | dbt Semantic Layer · Data Contracts |
 | AI Engineering | RAG · LLM Applications · MLOps |
-| Platform Engineering | Terraform · CI/CD |
 
 
 ---
@@ -240,9 +235,27 @@ Includes:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=marcellin-de&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellin-de&layout=compact&hide_border=true&theme=transparent"/>
+<img 
+height="160"
+src="https://github-readme-stats.vercel.app/api?username=marcellin-de&show_icons=true&hide_border=true&theme=github_dark"
+/>
+
+
+<img 
+height="160"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellin-de&layout=compact&hide_border=true&theme=github_dark"
+/>
+
+
+<br><br>
+
+
+<img
+width="70%"
+src="https://streak-stats.demolab.com?user=marcellin-de&hide_border=true&theme=github-dark"
+/>
+
 
 </div>
 
