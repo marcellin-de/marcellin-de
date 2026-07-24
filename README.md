@@ -17,7 +17,7 @@ Stacks data modernes de bout en bout — ingestion, transformation, modélisatio
 
 ---
 
-## 🛠 Stack technique
+## 🛠 Stack
 
 <table>
   <tr>
