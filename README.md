@@ -138,7 +138,7 @@ Architecture medallion production-grade. CLV, cohortes, segmentation RFM, workfl
 ## 🗺 Roadmap
 
 ```
-🔌 Data Engineering      │  🧮 Analytics Engineering   │  🤖 AI Engineering
+Data Engineering      │  Analytics Engineering   │  AI Engineering
 ─────────────────────────┼──────────────────────────────┼────────────────────────
 ▶ Kafka + Flink          │  ▶ dbt Semantic Layer        │  ▶ RAG pipelines
 ▶ Terraform (IaC)        │  ▶ Reverse ETL               │  ▶ Feature stores
