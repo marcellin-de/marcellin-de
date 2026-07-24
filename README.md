@@ -1,15 +1,3 @@
-<div align="center">
-
-<img 
-src="https://avatars.githubusercontent.com/u/259388311?v=4" 
-width="120"
-style="border-radius:50%;"
-/>
-
-<h1>
-Marcellin DJAMBO
-</h1>
-
 <h3>
 Data & Analytics Engineer
 </h3>
