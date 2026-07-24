@@ -146,18 +146,6 @@ Data Engineering      │  Analytics Engineering   │  AI Engineering
 ```
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-![Marcellin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellin-de&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellin-de&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
   <sub><i>"Data is the new oil — I build the refinery."</i></sub>
 </div>
