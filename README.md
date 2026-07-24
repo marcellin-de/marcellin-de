@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Marcellin%20DJAMBO&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Data%20%26%20Analytics%20Engineer&descAlignY=58"/>
@@ -382,4 +381,4 @@ djambomarcellin@gmail.com
 *"Turning raw data into trusted business decisions."*
 
 </div>
-````
+
