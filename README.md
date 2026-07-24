@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/marcellin-de/marcellin-de/main/assets/header.svg" alt="Marcellin DJAMBO — Data &amp; Analytics Engineer" width="100%">
-
-<!-- Optional banner. If you don't want a banner image, delete the line above and the file. -->
-
 # Hi, I'm Marcellin DJAMBO 👋
 
 **Data & Analytics Engineer** building end-to-end modern data stacks — from ingestion and transformation to testing, orchestration, BI, and ML.
