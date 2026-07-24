@@ -1,108 +1,125 @@
 <div align="center">
 
-# 👋 Hi, I'm Marcellin DJAMBO
+# Marcellin DJAMBO
 
-### Data & Analytics Engineer
+## Data & Analytics Engineer
 
-Building modern data platforms from ingestion to analytics and machine learning.
+Building reliable data platforms, analytics systems and ML pipelines.
 
-[Portfolio](https://marcellin.tech) •
-[LinkedIn](https://linkedin.com/in/marcellindjambo) •
+[Portfolio](https://marcellin.tech) · 
+[LinkedIn](https://linkedin.com/in/marcellindjambo) ·
 [Email](mailto:djambomarcellin@gmail.com)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-I'm passionate about building **scalable, reliable and observable data platforms** using the Modern Data Stack.
+Data & Analytics Engineer focused on designing modern data platforms:
 
-My interests include:
-
-- Data Engineering
-- Analytics Engineering
-- Data Warehousing
-- Machine Learning
-- Data Platform Architecture
+- Data ingestion and transformation pipelines
+- Analytics engineering and dimensional modeling
+- Business intelligence solutions
+- Machine learning workflows
 
 ---
 
-## Tech Stack
+## Stack
 
-### Data Engineering
-
-`Python` `SQL` `Dagster` `Airbyte` `dlt` `Docker` `PostgreSQL`
-
-### Analytics Engineering
-
-`dbt` `Snowflake` `DuckDB` `ClickHouse` `BigQuery`
-
-### BI & AI
-
-`Power BI` `Metabase` `MLflow` `Scikit-Learn`
+| Area | Technologies |
+|------|--------------|
+| Languages | Python, SQL, Bash, DAX |
+| Data Engineering | Airflow, Dagster, dlt, Airbyte, Docker |
+| Analytics Engineering | dbt, Snowflake, DuckDB, ClickHouse |
+| Databases | PostgreSQL, SQL Server, MongoDB |
+| BI | Power BI, Metabase |
+| ML / AI | MLflow, Scikit-learn, Hugging Face |
+| DevOps | Git, GitHub Actions, CI/CD |
 
 ---
 
-## Featured Projects
+## Selected Projects
 
 ### CRM Sales Analytics Platform
 
-Snowflake • dbt • Power BI
+**Snowflake · dbt · Power BI**
 
-Production-ready analytics platform with star schema, incremental models, snapshots and executive dashboards.
+Analytics engineering project transforming raw CRM data into trusted business metrics.
 
----
+Key components:
+- Dimensional modeling
+- Incremental transformations
+- Data quality tests
+- Executive dashboards
+
 
 ### Weather Intelligence Platform
 
-Dagster • DuckDB • dbt • MLflow
+**Dagster · DuckDB · dbt · MLflow**
 
-End-to-end weather pipeline with orchestration, data quality and machine learning.
+End-to-end data platform combining orchestration, analytics and machine learning.
 
----
+Key components:
+- Automated ingestion
+- Data validation
+- ML workflow management
+- Forecasting pipeline
+
 
 ### Marketing Performance Platform
 
-dlt • Dagster • dbt • Snowflake
+**dlt · dbt · Dagster · Snowflake**
 
-Modern ELT pipeline with automated orchestration and KPI dashboards.
+Modern ELT architecture for automated business analytics.
+
+Key components:
+- Data extraction pipelines
+- Transformation layers
+- KPI generation
+- Data quality monitoring
+
+
+### Vehicle Analytics Platform
+
+**Airbyte · dbt · Snowflake · Dagster**
+
+Analytics platform based on modern data architecture patterns.
+
+Key components:
+- Medallion architecture
+- Customer analytics
+- Cohort analysis
+- Automated workflows
 
 ---
 
-### Vehicle E-Commerce Analytics
+## Engineering Roadmap
 
-Airbyte • Snowflake • dbt • Dagster
+Currently deepening expertise in:
 
-Production Medallion Architecture with customer analytics.
+- Streaming architectures (Kafka, Flink)
+- Lakehouse platforms (Iceberg, Delta Lake)
+- Infrastructure as Code (Terraform)
+- Data contracts
+- RAG systems and LLM applications
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcellin-de&show_icons=true&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=marcellin-de&show_icons=true&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellin-de&layout=compact&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellin-de&layout=compact&hide_border=true"/>
 
 </div>
 
 ---
 
-## Currently Learning
-
-- Apache Kafka
-- Apache Flink
-- Apache Iceberg
-- Terraform
-- RAG
-- LLMOps
-
----
-
 <div align="center">
 
-**Turning raw data into trusted business decisions.**
+Building data systems that transform raw information into reliable decisions.
 
 </div>
