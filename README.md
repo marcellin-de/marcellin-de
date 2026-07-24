@@ -6,7 +6,7 @@
 **`Data & Analytics Engineer`**
 
 Stacks data modernes de bout en bout — ingestion, transformation, modélisation, BI et ML.  
-Mastère Ingénierie IA · Université Centrale de Tunis · 🌍 Ouvert aux opportunités
+🌍 Ouvert aux opportunités
 
 [![Website](https://img.shields.io/badge/marcellin.tech-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://marcellin.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellindjambo)
